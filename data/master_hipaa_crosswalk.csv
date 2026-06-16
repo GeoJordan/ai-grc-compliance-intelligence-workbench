@@ -1,0 +1,5 @@
+ControlID,Framework,ControlName,AssetTarget,Status
+HI-164.312-E1,HIPAA Security Rule,Transmission Security,clinical-db.omnicare.local,Non-Compliant
+NIST-SC-8,NIST 800-53 Rev 5,Transmission Confidentiality,clinical-db.omnicare.local,Non-Compliant
+HITRUST-09.M,HITRUST CSF v11,Transmission Security,clinical-db.omnicare.local,Non-Compliant
+SOC2-CC6.7,SOC 2 TSC,Transmission Integrity,clinical-db.omnicare.local,Non-Compliant
