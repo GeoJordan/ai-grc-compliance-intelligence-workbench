@@ -1,0 +1,21 @@
+# Power BI / Excel temporary files
+*.tmp
+*.pbix.as
+
+# If you want to keep your master .pbix file out of GitHub 
+# (Highly recommended if the dataset is massive)
+# *.pbix
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Mac system files
+.DS_Store
+
+# VS Code environment files
+.vscode/
+.history/
+*.log
